@@ -93,6 +93,10 @@
           "code": "slice"
         }, {
           "code": "sort"
+        }{
+          "code": "some"
+        }{
+          "code": "every"
         }, {
           "code": "splice"
         }, {
